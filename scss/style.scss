@@ -5,6 +5,7 @@ body {
     font-weight: 300;
     font-size: .9rem;
 
+    // box shadow for project
     .box-shadow {
         box-shadow: 0 .25rem .75rem rgba(0,0,0,0.05);
     }
@@ -13,10 +14,12 @@ body {
         max-width: 700px;
     }
 
+    //add for panels
     .container {
         max-width: 960px;
     }
 
+    // for responsive cards
     .card-deck .card {
         min-width: 220px;
     }
